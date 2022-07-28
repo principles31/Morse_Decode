@@ -53,9 +53,9 @@ $ git clone https://github.com/ppmarq1/Morse-Decode.git
 
 👤 ****
 
-- GitHub: 
-- Twitter: 
-- LinkedIn:
+- GitHub: [@felixodette](https://github.com/felixodette)
+- Twitter: [@Odette3000](https://twitter.com/Odette3000)
+- LinkedIn: [@felixodete](https://ww.linkedin.com/in/felixodete)
 
 ## 🤝 Contributing
 
