@@ -49,7 +49,6 @@ def decode_word(word)
   @chars.each do |char|
     @entire_word += decode_char(char)
   end
-  
   print @entire_word.to_s
 end
 
